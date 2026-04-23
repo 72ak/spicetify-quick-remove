@@ -9,5 +9,6 @@
     }
   ],
   "readme": "README.md",
+  "preview": "preview.png",
   "tags": ["ui", "playlist", "tools"]
 }
