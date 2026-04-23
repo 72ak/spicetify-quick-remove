@@ -1,0 +1,13 @@
+{
+  "name": "Quick Remove from playlist",
+  "description": "Remove songs from a playlist in a single click",
+  "main": "remove-from-playlist.js",
+  "authors": [
+    {
+      "name": "72ak",
+      "url": "https://github.com/72ak"
+    }
+  ],
+  "readme": "README.md",
+  "tags": ["ui", "playlist", "tools"]
+}
